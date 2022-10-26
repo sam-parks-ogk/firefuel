@@ -1,7 +1,7 @@
-name: firefuel
+﻿name: firefuel
 description: A Firebase Cloud Firestore library to fuel your application's growth!
 version: 0.2.2
-repository: https://github.com/sam-parks-ogk/firefuel/tree/main/packages/firefuel
+repository: https://github.com/sam-parks-ogk/firefuel
 homepage: https://github.com/SupposedlySam/firefuel
 documentation: https://firefuel.dev
 
